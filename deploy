@@ -3,10 +3,11 @@
 commit="Site update: "$(date)
 git add .
 git commit -m "$commit"
+git push -u origin master
 
 hugo
 cd public
-# git add .
-# git commit -m ""
-# git push -u origin master
+git add .
+git commit -m "$commit"
+git push -u origin master
 cd ..
