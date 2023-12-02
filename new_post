@@ -1,0 +1,5 @@
+#!/bin/bash
+
+post=$1
+
+hugo new posts/$post/index.md

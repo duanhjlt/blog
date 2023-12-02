@@ -1,0 +1,12 @@
+#!/bin/bash
+
+commit="Site update: "$(date)
+git add .
+git commit -m "$commit"
+
+hugo
+cd public
+# git add .
+# git commit -m ""
+# git push -u origin master
+cd ..
