@@ -1,0 +1,37 @@
+baseURL: 'http://duanhjlt.github.io/'
+
+languageCode: 'zh-cn'
+languageName: '简体中文'
+hasCJKLanguage: true
+
+title: 'CrazyKids Site'
+paginate: 5
+theme: 'PaperMod'
+
+author:
+  name: 'duanhongjin'
+  email: 'duanhjlt@163.com'
+  link: 'http://blog.duanhjlt.com'
+
+menu:
+  main:
+    - weight: 1
+      identifier: 'post'
+      name: '文章'
+      url: '/posts/'
+    - weight: 2
+      identifier: 'tags'
+      name: '标签'
+      url: '/tags/'
+    - weight: 3
+      identifier: 'categories'
+      name: '分类'
+      url: '/categories/'
+    - weight: 4
+      identifier: 'about'
+      name: '关于'
+      url: '/about/'
+
+markup:
+  highlight:
+    noClasses: false
