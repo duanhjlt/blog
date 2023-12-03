@@ -1,14 +1,22 @@
 baseURL: 'https://blog.duanhjlt.com/'
+theme: 'PaperMod'
 
 languageCode: 'zh-cn'
 languageName: '简体中文'
 hasCJKLanguage: true
-
 title: 'CrazyKids Site'
-paginate: 5
-theme: 'PaperMod'
+paginate: 15
+summaryLength: 140 # 文章概览的自字数，默认70
 
+author:
+  name: 'duanhongjin'
+  email: 'duanhjlt@163.com'
+  link: 'https://blog.duanhjlt.com/'
+
+enableInlineShortcodes: true
+enableEmoji: true
 enableRobotsTXT: true
+
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -17,62 +25,7 @@ googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
-  minifyOutput: true
-
-params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: duanhongjin
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: true
-  tocopen: false
-
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/"
-  #   - name: stackoverflow
-  #     url: "https://stackoverflow.com"
-  #   - name: github
-  #     url: "https://github.com/"
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/duanhjlt/blog/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-author:
-  name: 'duanhongjin'
-  email: 'duanhjlt@163.com'
-  link: 'https://blog.duanhjlt.com/'
+  # minifyOutput: true
 
 menu:
   main:
@@ -92,6 +45,53 @@ menu:
       identifier: 'about'
       name: '关于'
       url: '/about/'
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  author: duanhongjin
+  defaultTheme: auto  # defaultTheme: light or  dark
+  disableThemeToggle: false
+  DateFormat: "2006-01-02"
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecialistPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideFooter: false # 隐藏页脚
+  ShowWordCounts: true
+  VisitCount: true
+  ShowLastMod: true #显示文章更新时间
+
+  ShowToc: true # 显示目录
+  TocOpen: true # 自动展开目录
+
+  extendCodeBackground: false # 代码块是否自动横向展开
+
+  comments: true
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/duanhjlt"
+    - name: RSS
+      url: "index.xml"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: "https://github.com/duanhjlt/blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
 markup:
   highlight:

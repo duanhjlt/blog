@@ -5,7 +5,7 @@ git add .
 git commit -m "$commit"
 git push -u origin master
 
-hugo
+hugo -F --cleanDestinationDir
 cd public
 git add .
 git commit -m "$commit"
