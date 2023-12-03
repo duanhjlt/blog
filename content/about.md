@@ -1,6 +1,6 @@
 ---
 keywords: ['blog']
-title: 'About'
+title: '简介'
 date: 2023-12-03T10:54:00+08:00
 lastmod: 2023-12-03T10:54:00+08:00
 draft: false
@@ -18,5 +18,4 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 ---
 
-## 简介
 一个中年程序员
