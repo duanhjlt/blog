@@ -32,7 +32,7 @@ menu:
     - weight: 1
       identifier: 'post'
       name: '文章'
-      url: '/posts/'
+      url: '/'
     - weight: 2
       identifier: 'tags'
       name: '标签'
