@@ -32,7 +32,7 @@ menu:
     - weight: 1
       identifier: 'post'
       name: '文章'
-      url: '/'
+      url: '/posts/'
     - weight: 2
       identifier: 'tags'
       name: '标签'
@@ -76,6 +76,10 @@ params:
   extendCodeBackground: false # 代码块是否自动横向展开
 
   comments: true
+
+  profileMode:
+    enable: true
+    title: "CrazyKids's Blog"
   
   socialIcons:
     - name: github
