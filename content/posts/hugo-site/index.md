@@ -33,6 +33,7 @@ $ brew install hugo
 ```bash
 $ hugo new site /path/to/site
 ```
+
 这样就在 **/path/to/site** 目录里生成了初始站点，进入目录：
 
 ```bash
@@ -48,6 +49,7 @@ $ git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
 ```
 
 在配置文件中设置主题名字
+
 ```yaml
 theme: PaperMod
 ```
@@ -57,6 +59,7 @@ theme: PaperMod
 Hugo 默认使用的 **toml** 格式的配置文件，也支持 **yaml** 格式。 详细说明可以参考 [Hugo的官方文档](https://gohugo.io/getting-started/configuration/)
 
 示例配置 **config.yaml** 如下
+
 ```yaml
 baseURL: 'https://blog.duanhjlt.com/'
 theme: 'PaperMod'
@@ -163,11 +166,13 @@ markup:
 ```bash
 $ hugo server -D
 ```
+
 本地预览，本地预览网址为 **http://localhost:1313**
 
 ```bash
 $ hugo -F --cleanDestinationDir
 ```
+
 生成全新的 **public** 文件夹，这个文件夹可以部署到云服务器上  
 
 ## 05 写文章
@@ -183,10 +188,12 @@ hugo 会在 **content** 目录下生成"new-post.md"名字的文件，所有的�
 ```bash
 $ hugo new posts/new-post.md
 ```
+
 ## 06 文章默认配置
 生成文章内部文件头部配置信息包括一些文章名称，时间之类的信息，可以写到 **archetypes/default.md** 中做为模版，这样生成文章时会自动添加模版里的配置  
 
 示例配置如下:
+
 ```yaml
 ---
 keywords: []
@@ -214,7 +221,9 @@ showbreadcrumbs: true #顶部显示路径
 
 如果想使用自己的域名，如本站域名 **blog.duanhjlt.com**，可以
 1. 在 **dns** 增加 **blog** 到 **duanhjlt.gihub.io.** 的 **CNAME** 配置项
+![](cname.jpg)
 2. 在 GitHub 的仓库中增加 **CNAME** 文件，内容为
+
 ```
 blog.duanhjlt.com
 ``` 
