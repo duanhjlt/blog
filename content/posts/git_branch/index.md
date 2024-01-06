@@ -1,14 +1,12 @@
 ---
-keywords: []
+keywords: ['blog', 'git', 'branch']
 title: 'git 分支操作常用命令'
 date: 2024-01-04T22:35:39+08:00
 lastmod: 2024-01-04T22:35:39+08:00
 draft: false
 description: 
 author: 'duanhongjin'
-tags: 
-    - 'blog'
-    - 'git'
+tags: ['git']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论

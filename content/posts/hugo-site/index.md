@@ -1,12 +1,12 @@
 ---
-keywords: []
+keywords: ['blog', 'github', 'pages', '建站']
 title: 'Hugo + Github Pages 建站'
 date: 2023-12-25T22:30:34+08:00
 lastmod: 2023-12-25T22:30:34+08:00
 draft: false
 description: 'Hugo 是由 Go 语言实现的静态网站生成器，简单、易用、高效、易扩展、快速部署。'
 author: 'duanhongjin'
-tags: ['blog', 'hugo', 'github', 'pages', '建站']
+tags: ['hugo']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论
