@@ -36,7 +36,8 @@ $ git push --mirror http://b.com/crazykids.git
 $ git remote add B http://b.com/crazykids.git
 ```
 
-#### 方式1，checkout 所有分支
+#### 方式1 
+checkout 所有分支，再push到远端
 
 ```bash
 $ git fetch origin
