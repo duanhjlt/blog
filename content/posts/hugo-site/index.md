@@ -61,7 +61,7 @@ Hugo 默认使用的 **toml** 格式的配置文件，也支持 **yaml** 格式�
 示例配置 **config.yaml** 如下
 
 ```yaml
-baseURL: 'https://blog.duanhjlt.com/'
+baseURL: 'https://blog.crazykids.tech/'
 theme: 'PaperMod'
 
 languageCode: 'zh-cn'
@@ -74,7 +74,7 @@ summaryLength: 120 # 文章概览的自字数，默认70
 author:
   name: 'duanhongjin'
   email: 'duanhjlt@163.com'
-  link: 'https://blog.duanhjlt.com/'
+  link: 'https://blog.crazykids.tech/'
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -219,13 +219,13 @@ showbreadcrumbs: true #顶部显示路径
 ## 07 部署到GitHub Pages
 在 **GitHub** 上创建仓库，名字可以是 **duanhjlt.github.io**，也可以是其他的，在 **GitHub Pages** 进行设置即可  
 
-如果想使用自己的域名，如本站域名 **blog.duanhjlt.com**，可以
+如果想使用自己的域名，如本站域名 **blog.crazykids.tech**，可以
 1. 在 **dns** 增加 **blog** 到 **duanhjlt.gihub.io.** 的 **CNAME** 配置项
 ![](cname.jpg)
 2. 在 GitHub 的仓库中增加 **CNAME** 文件，内容为
 
 ```
-blog.duanhjlt.com
+blog.crazykids.tech
 ``` 
 
 将 **public** 文件夹做为 **GitHub Pages** 的本地仓库，每次生成后，推送到 **GitHub** 上，**GitHub Pages** 就会自动部署了
