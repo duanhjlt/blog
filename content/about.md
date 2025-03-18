@@ -20,7 +20,7 @@ showbreadcrumbs: true #顶部显示路径
 
 中年 iOS/macos 开发
 
-- [Memora - 让阅读与记忆更优雅](https://www.crazykids.tech): 一个“Read it later” 和 “笔记” 工具。
+- [Memora - 让阅读与记忆更优雅](https://www.memora.top): 一个“Read it later” 和 “笔记” 工具。
 - [Black Screen](https://www.blackscreennow.space): 黑色力量的终极目的地, 简约和优雅是迷人视觉体验的核心。
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] 版本管理
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
