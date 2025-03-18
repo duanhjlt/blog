@@ -36,15 +36,23 @@ menu:
     identifier: 'tags'
     name: '标签'
     url: '/tags/'
-  - weight: 3
-    identifier: 'categories'
-    name: '分类'
-    url: '/categories/'
+  # - weight: 3
+  #   identifier: 'categories'
+  #   name: '分类'
+  #   url: '/categories/'
   - weight: 4
+    identifier: 'memora'
+    name: 'Memora'
+    url: 'https://www.crazykids.tech'
+  - weight: 5
+    identifier: 'black-screen'
+    name: 'Black Screen'
+    url: 'https://www.blackscreennow.space'
+  - weight: 9
     identifier: 'about'
     name: '关于'
     url: '/about/'
-  - weight: 5
+  - weight: 10
     identifier: 'search'
     name: '搜索'
     url: '/search/'
@@ -86,6 +94,14 @@ params:
   profileMode:
     enabled: true
     title: "CrazyKids's Blog"
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/duan0120'
+    - name: x
+      url: 'https://x.com/alexander_duan'
+    - name: email
+      url: 'mailto:duanhjlt@gmail.com'
 
   # label: # 左上角图标
   #   text: "CrazyKids's Blog"
