@@ -6,7 +6,7 @@ lastmod: 2025-03-18T17:17:36+08:00
 draft: false
 description: '走进 Blackscreennow.space，感受黑屏带来的极致魅力。'
 author: 'duanhongjin'
-tags: []
+tags: ['black-screen', 'blackscreennow.space']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论
