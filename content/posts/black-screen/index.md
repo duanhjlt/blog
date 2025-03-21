@@ -1,6 +1,8 @@
 ---
 keywords: ['blog']
 title: 'Black Screen'
+url: "/posts/black-screen/"
+slug: "black-screen"
 date: 2025-03-18T17:17:36+08:00
 lastmod: 2025-03-18T17:17:36+08:00
 draft: false
