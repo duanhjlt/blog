@@ -1,6 +1,6 @@
 ---
 keywords: ['blog', 'blackscreen', 'blackscreennow.space']
-title: 'Blackscreen'
+title: 'Black Screen'
 date: 2025-03-21T09:43:44+08:00
 lastmod: 2025-03-21T09:43:44+08:00
 draft: false

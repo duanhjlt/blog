@@ -1,6 +1,6 @@
 ---
 keywords: ['blog', 'whitescreen', 'whitescreennow.space']
-title: 'Whitescreen'
+title: 'White Screen'
 date: 2025-03-21T09:46:23+08:00
 lastmod: 2025-03-21T09:46:23+08:00
 draft: false
