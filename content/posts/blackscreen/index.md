@@ -4,7 +4,7 @@ title: 'Blackscreen'
 date: 2025-03-21T09:43:44+08:00
 lastmod: 2025-03-21T09:43:44+08:00
 draft: false
-description: 
+description: "走进 Blackscreennow.space，感受黑屏带来的极致魅力。"
 author: 'duanhongjin'
 tags: ['blackscreen', 'blackscreennow.space']
 categories: []
