@@ -1,12 +1,12 @@
 ---
-keywords: ['blog', 'whitescreen', 'whitescreennow.space']
+keywords: ['blog', 'whitescreen', 'blackscreennow.space']
 title: 'White Screen'
 date: 2025-03-21T09:46:23+08:00
 lastmod: 2025-03-21T09:46:23+08:00
 draft: false
-description: "走进 Whitescreennow.space，感受白色带来的极致魅力。"
+description: "走进 blackscreennow.space，感受白色带来的极致魅力。"
 author: 'duanhongjin'
-tags: ['whitescreen', 'whitescreennow.space']
+tags: ['whitescreen', 'blackscreennow.space']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论
