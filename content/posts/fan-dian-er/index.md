@@ -6,7 +6,7 @@ lastmod: 2025-03-26T14:28:50+08:00
 draft: false
 description: '到饭点儿，轻轻一摇推荐附近的餐馆'
 author: 'duanhongjin'
-tags: []
+tags: ['app']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论
