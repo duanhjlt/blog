@@ -29,4 +29,4 @@ showbreadcrumbs: true #顶部显示路径
 
 别再让吃饭选择成为负担，下载“[饭点儿](https://fandianer.crazykids.tech)”APP ，让摇一摇开启美味新体验，从此告别饭点儿纠结，轻松享受每一餐！
 
-[![](/img/download_on_the_app_store_btn.svg)](https://apps.apple.com/us/app/%E9%A5%AD%E7%82%B9%E5%84%BF-%E6%91%87%E4%B8%80%E6%91%87%E6%8E%A8%E8%8D%90%E9%99%84%E8%BF%91%E7%9A%84%E9%A4%90%E9%A6%86/id6743344692)
+[![](/img/download_on_the_app_store_btn.svg)](https://apps.apple.com/cn/app/%E9%A5%AD%E7%82%B9%E5%84%BF-%E6%91%87%E4%B8%80%E6%91%87%E6%8E%A8%E8%8D%90%E9%99%84%E8%BF%91%E7%9A%84%E9%A4%90%E9%A6%86/id6743344692)
