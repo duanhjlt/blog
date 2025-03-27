@@ -2,4 +2,13 @@
 
 post=$1
 
+if [[ -z $2 ]]; then
+    language='zh'
+else
+    language='en'
+fi
+
+cp config.yaml config.yaml.bak
+sed -i '' "s/defaultContentLanguage: .*/defaultContentLanguage: $language/" config.yaml
 hugo new posts/$post/index.md
+mv config.yaml.bak config.yaml
