@@ -31,10 +31,4 @@ showbreadcrumbs: true #顶部显示路径
 - E-mail: duanhjlt{at}gmail.com
 - Github: [duan0120](https://github.com/duan0120)
 - X: [@alexander_duan](https://x.com/alexander_duan)
-
-
-
-
-
-
-
+- Telegram: [@duanhjlt](https://t.me/duanhjlt)
