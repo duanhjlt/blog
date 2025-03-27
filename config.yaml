@@ -100,6 +100,8 @@ params:
       url: 'https://github.com/duan0120'
     - name: x
       url: 'https://x.com/alexander_duan'
+    - name: telegram
+      url: 'https://t.me/duanhjlt'
     - name: email
       url: 'mailto:duanhjlt@gmail.com'
 
