@@ -18,15 +18,13 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 ---
 
-中年 iOS/macos 开发
-
-- [Memora - 让阅读与记忆更优雅](https://www.memora.top): 一个“Read it later” 和 “笔记” 工具。
-- [Black Screen](https://www.blackscreennow.space): 黑色力量的终极目的地, 简约和优雅是迷人视觉体验的核心。
-- [xvm](https://github.com/duan0120/xvm): [node|golang|python] 版本管理
-- [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
+- [Memora - Memory and More](https://www.memora.top): Read it later and Tools.
+- [Black Screen](https://www.blackscreennow.space): Your ultimate destination for harnessing the allure of black.
+- [xvm](https://github.com/duan0120/xvm): [node|golang|python] Version Manager
+- [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] Version Manager
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆
 
-### 联系方式
+### Contact me
 
 - E-mail: duanhjlt{at}gmail.com
 - Github: [duan0120](https://github.com/duan0120)
