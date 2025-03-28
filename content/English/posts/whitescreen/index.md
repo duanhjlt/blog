@@ -18,8 +18,6 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 ---
 
-
-
 Discover [Blackscreennow.space](https://www.blackscreennow.space), where pure, radiant white takes center stage. We believe simplicity and clarity are the foundation of an exceptional visual experience. 
 
 ## The Power of White Screen
