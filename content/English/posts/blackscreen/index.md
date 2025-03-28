@@ -4,7 +4,7 @@ title: 'Black Screen'
 date: 2025-03-28T10:04:41+08:00
 lastmod: 2025-03-28T10:04:41+08:00
 draft: false
-description: 'Your ultimate destination for harnessing the allure of black.'
+description: 'Step into Blackscreennow.space and experience the ultimate allure of a black screen.'
 author: 'duanhongjin'
 tags: ['blackscreennow.space']
 categories: []
