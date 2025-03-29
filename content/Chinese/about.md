@@ -25,6 +25,7 @@ showbreadcrumbs: true #顶部显示路径
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] 版本管理
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆
+- [It is friday?](https://friday.crazykids.tech): It is friday?
 
 ### 联系方式
 
