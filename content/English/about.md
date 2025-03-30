@@ -22,7 +22,7 @@ showbreadcrumbs: true #顶部显示路径
 - [Black Screen](https://www.blackscreennow.space): Your ultimate destination for harnessing the allure of black.
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] Version Manager
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] Version Manager
-- [It is friday?](https://friday.crazykids.tech): It is friday?
+- [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday? The best day of the week.
 
 ### Contact me
 
