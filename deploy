@@ -5,7 +5,7 @@ git add .
 git commit -m "$commit"
 git push -u origin master
 
-hugo -F --cleanDestinationDir
+hugo -F --cleanDestinationDir --environment production
 cd public
 echo 'blog.crazykids.tech' > CNAME
 git add .
