@@ -130,7 +130,7 @@ params:
   comments: true
 
   profileMode:
-    enabled: true
+    enabled: false
     title: "CrazyKids's Blog"
 
   socialIcons:
