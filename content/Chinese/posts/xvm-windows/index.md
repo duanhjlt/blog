@@ -1,10 +1,10 @@
 ---
 keywords: ['blog', 'xvm',]
-title: 'X Version Manger for Windows'
+title: 'xvm-windows：Node.js、Go、Python版本管理器'
 date: 2025-03-28T23:21:06+08:00
 lastmod: 2025-03-28T23:21:06+08:00
 draft: false
-description: '版本管理工具'
+description: 'xvm-windows是Windows上的可扩展的版本管理器，支持Node.js、Go和Python。学习使用此开源工具管理多语言版本。'
 author: 'duanhongjin'
 tags: ['xvm']
 categories: []

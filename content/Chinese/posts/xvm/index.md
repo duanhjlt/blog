@@ -1,10 +1,10 @@
 ---
 keywords: ['blog','xvm','version manager','nvm','conda','pyenv','gvm']
-title: 'X Version Manger'
+title: 'XVM：Node.js、Go、Python版本管理器X Version Manger'
 date: 2025-03-28T16:00:20+08:00
 lastmod: 2025-03-28T16:00:20+08:00
 draft: false
-description: '版本管理工具' 
+description: 'XVM是可扩展的版本管理器，支持Node.js、Go和Python。学习使用此开源工具管理多语言版本。' 
 author: 'duanhongjin'
 tags: ['xvm']
 categories: []
@@ -210,5 +210,5 @@ xvm python deactivate
 ```bash
 xvm python uninstall 3.12.0
 # 删除虚拟环境
-xvm python uninstall venv
+xvm python uninstall venvxVM：Node.js、Go、Python版本管理器
 ```

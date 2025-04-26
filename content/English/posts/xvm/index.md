@@ -1,10 +1,10 @@
 ---
 keywords: ['blog','xvm','version manager','nvm','conda','pyenv','gvm']
-title: 'X Version Manager'
+title: 'xvm: Version Manager for Node.js, Go, Python'
 date: 2025-03-28T16:00:23+08:00
 lastmod: 2025-03-28T16:00:23+08:00
 draft: false
-description: 'x version manager'
+description: 'xvm is an extendable version manager for Node.js, Go, and Python. Learn to manage multiple language versions with this open-source tool.'
 author: 'duanhongjin'
 tags: ['xvm']
 categories: []
