@@ -25,22 +25,23 @@ showbreadcrumbs: true #顶部显示路径
 ### Features:
 
 - Save and Read Web Pages Offline  
-Memora is a powerful read it later app for iOS and macOS, designed to help you save web pages for offline reading. Download articles and websites to your device to avoid 404 errors and access content anytime, anywhere.
+  Memora is a powerful read it later app for iOS and macOS, designed to help you save web pages for offline reading. Download articles and websites to your device to avoid 404 errors and access content anytime, anywhere.
 
 - Privacy-First with Local Storage  
-Your data stays safe with Memora. We prioritize privacy by storing data locally on your device and syncing securely via iCloud. No user data is stored on our servers, ensuring maximum security.
+  Your data stays safe with Memora. We prioritize privacy by storing data locally on your device and syncing securely via iCloud. No user data is stored on our servers, ensuring maximum security.
 
 - Distraction-Free Reading Mode  
-Enjoy a clean, distraction-free reading mode that removes ads and clutter. Future updates will include note-taking and full-text search, making Memora the ultimate reading companion.
+  Enjoy a clean, distraction-free reading mode that removes ads and clutter. Future updates will include note-taking and full-text search, making Memora the ultimate reading companion.
 
 - Organize with Tags and Smart Search  
-Bookmark and archive web pages effortlessly. Organize URLs with custom tags and find them quickly using multiple search methods, including tag-based and keyword searches.
+  Bookmark and archive web pages effortlessly. Organize URLs with custom tags and find them quickly using multiple search methods, including tag-based and keyword searches.
 
 ### Take Control of Your Data and Privacy
 
 Memora gives you complete control, allowing you to save, manage, and review your knowledge and inspiration in a focused, distraction-free environment.
 
 ### Why Choose Memora?
+
 - Available on iOS and macOS with seamless iCloud sync  
 - Offline web page downloads to prevent broken links  
 - Secure, local storage with no data collection  
@@ -48,6 +49,7 @@ Memora gives you complete control, allowing you to save, manage, and review your
 - Distraction-free reading mode for focused reading  
 
 ### Get Started Today
+
 Download Memora, the best read it later app for iOS and macOS, and take control of your reading list with privacy and ease.
 
 [![](/img/download_on_the_app_store_btn.svg)](https://apps.apple.com/us/app/memora-read-it-later/id6739724968)
