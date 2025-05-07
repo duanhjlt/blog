@@ -1,7 +1,7 @@
-baseURL: 'https://blog.crazykids.tech/' # 绑定的域名
-languageCode: 'zh' # en-us
+baseURL: "https://www.crazykids.tech/" # 绑定的域名
+languageCode: "zh" # en-us
 title: "CrazyKids's Blog"
-theme: 'PaperMod'  # 主题名字，和themes文件夹下的一致
+theme: "PaperMod" # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
@@ -14,7 +14,7 @@ buildExpired: false
 
 googleAnalytics: UA-123-45 # 谷歌统计
 
-paginate: 15    # 首页每页显示的文章数
+paginate: 15 # 首页每页显示的文章数
 summaryLength: 140 # 文章概览的自字数，默认70
 
 minify:
@@ -23,7 +23,7 @@ minify:
 permalinks: # 访问博客时网址的显示形式
   post: "/:title/"
 
-defaultContentLanguage: 'zh' # 最顶部首先展示的语言页面
+defaultContentLanguage: "zh" # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: true
 
 languages:
@@ -33,68 +33,68 @@ languages:
     contentDir: content/Chinese
     menu:
       main:
-      - weight: 1
-        identifier: 'post'
-        name: '文章'
-        url: '/zh/posts/'
-      - weight: 2
-        identifier: 'tags'
-        name: '标签'
-        url: '/zh/tags/'
-      # - weight: 3
-      #   identifier: 'categories'
-      #   name: '分类'
-      #   url: '/categories/'
-      - weight: 4
-        identifier: 'memora'
-        name: 'Memora'
-        url: 'https://www.memora.top'
-      - weight: 5
-        identifier: 'black-screen'
-        name: 'Black Screen'
-        url: 'https://www.blackscreennow.space'
-      - weight: 9
-        identifier: 'about'
-        name: '关于'
-        url: '/zh/about/'
-      - weight: 10
-        identifier: 'search'
-        name: '搜索'
-        url: '/zh/search/'
+        - weight: 1
+          identifier: "post"
+          name: "文章"
+          url: "/zh/posts/"
+        - weight: 2
+          identifier: "tags"
+          name: "标签"
+          url: "/zh/tags/"
+        # - weight: 3
+        #   identifier: 'categories'
+        #   name: '分类'
+        #   url: '/categories/'
+        - weight: 4
+          identifier: "memora"
+          name: "Memora"
+          url: "https://www.memora.top"
+        - weight: 5
+          identifier: "black-screen"
+          name: "Black Screen"
+          url: "https://www.blackscreennow.space"
+        - weight: 9
+          identifier: "about"
+          name: "关于"
+          url: "/zh/about/"
+        - weight: 10
+          identifier: "search"
+          name: "搜索"
+          url: "/zh/search/"
   en:
     languageName: English
     languageCode: en
     contentDir: content/English
     menu:
       main:
-      - weight: 1
-        identifier: 'post'
-        name: 'Posts'
-        url: '/en/posts/'
-      - weight: 2
-        identifier: 'tags'
-        name: 'Tags'
-        url: '/en/tags/'
-      # - weight: 3
-      #   identifier: 'categories'
-      #   name: '分类'
-      #   url: '/categories/'
-      - weight: 4
-        identifier: 'memora'
-        name: 'Memora'
-        url: 'https://www.memora.top'
-      - weight: 5
-        identifier: 'black-screen'
-        name: 'Black Screen'
-        url: 'https://www.blackscreennow.space'
-      - weight: 9
-        identifier: 'about'
-        name: 'About'
-        url: '/en/about/'
-      - weight: 10
-        identifier: 'search'
-        name: 'Search'
-        url: '/en/search/'
+        - weight: 1
+          identifier: "post"
+          name: "Posts"
+          url: "/en/posts/"
+        - weight: 2
+          identifier: "tags"
+          name: "Tags"
+          url: "/en/tags/"
+        # - weight: 3
+        #   identifier: 'categories'
+        #   name: '分类'
+        #   url: '/categories/'
+        - weight: 4
+          identifier: "memora"
+          name: "Memora"
+          url: "https://www.memora.top"
+        - weight: 5
+          identifier: "black-screen"
+          name: "Black Screen"
+          url: "https://www.blackscreennow.space"
+        - weight: 9
+          identifier: "about"
+          name: "About"
+          url: "/en/about/"
+        - weight: 10
+          identifier: "search"
+          name: "Search"
+          url: "/en/search/"
 outputs:
   home:
     - HTML
@@ -107,7 +107,7 @@ params:
   description: ""
   author: duanhongjin
 
-  defaultTheme: auto  # defaultTheme: light or  dark
+  defaultTheme: auto # defaultTheme: light or  dark
   disableThemeToggle: false
   DateFormat: "2006-01-02"
   ShowShareButtons: true
@@ -135,13 +135,13 @@ params:
 
   socialIcons:
     - name: github
-      url: 'https://github.com/duan0120'
+      url: "https://github.com/duan0120"
     - name: x
-      url: 'https://x.com/alexander_duan'
+      url: "https://x.com/alexander_duan"
     - name: telegram
-      url: 'https://t.me/duanhjlt'
+      url: "https://t.me/duanhjlt"
     - name: email
-      url: 'mailto:duanhjlt@gmail.com'
+      url: "mailto:duanhjlt@gmail.com"
 
   # label: # 左上角图标
   #   text: "CrazyKids's Blog"
@@ -172,7 +172,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: [ "title", "permalink", "summary" ]
+    keys: ["title", "permalink", "summary"]
 
   StartYear: 2020 # 底部开始年份
   # FilingNo: 填写自己的备案号 # 底部备案号
@@ -198,9 +198,9 @@ params:
     appendFilePath: true # to append file path to Edit link
 
 taxonomies:
-  category: 'categories'
-  tag: 'tags'
-  series: 'series'
+  category: "categories"
+  tag: "tags"
+  series: "series"
 
 markup:
   goldmark:
@@ -221,5 +221,3 @@ markup:
     # lineNos：是否显示行号，我比较喜欢显示，所以我设置的为 true.
     # lineNumbersInTable：使用表来格式化行号和代码,而不是 标签。这个属性一般设置为 true.
     # noClasses：使用 class 标签，而不是内嵌的内联样式
-
-        
