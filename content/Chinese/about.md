@@ -20,12 +20,13 @@ showbreadcrumbs: true #顶部显示路径
 
 中年 iOS/macos 开发
 
-- [Memora - 让阅读与记忆更优雅](https://www.memora.top): 一个“Read it later” 和 “笔记” 工具。
+- [Memora：专为iOS和macOS设计的离线稍后读应用](https://www.memora.top): Memora是一款安全可靠的稍后读应用，支持网页离线保存、iCloud同步和无干扰阅读体验。通过标签分类和智能搜索，轻松管理你的阅读清单。
 - [Black Screen](https://www.blackscreennow.space): 黑色力量的终极目的地, 简约和优雅是迷人视觉体验的核心。
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] 版本管理
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday?
+- [在线时间戳转换器](https://www.timestamps.top): 免费在线时间戳转换工具！快速将日期时间转换为Unix时间戳或时间戳转日期时间，支持多格式，简单易用，立即试用！
 
 ### 联系方式
 
