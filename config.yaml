@@ -1,4 +1,4 @@
-baseURL: "https://www.crazykids.tech/" # 绑定的域名
+baseURL: "https://blog.crazykids.tech/" # 绑定的域名
 languageCode: "zh" # en-us
 title: "CrazyKids's Blog"
 theme: "PaperMod" # 主题名字，和themes文件夹下的一致

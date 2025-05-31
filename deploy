@@ -7,7 +7,7 @@ git push -u origin master
 
 hugo -F --cleanDestinationDir --environment production
 cd public
-echo 'www.crazykids.tech' > CNAME
+echo 'blog.crazykids.tech' > CNAME
 git add .
 git commit -m "$commit"
 git push -u origin master
