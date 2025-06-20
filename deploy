@@ -8,7 +8,7 @@ git push -u origin master
 hugo -F --cleanDestinationDir --environment production
 sed -i '' '/<meta name="robots" content="noindex">/d' public/index.html
 cd public
-echo 'blog.crazykids.tech' > CNAME
+echo 'www.timestamps.top' > CNAME
 git add .
 git commit -m "$commit"
 git push -u origin master
