@@ -23,11 +23,10 @@ showbreadcrumbs: true #顶部显示路径
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] Version Manager
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] Version Manager
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday? The best day of the week.
-- [Unix TimeStamp Converter Online](https://timestamps.top): how to convert datetime to timestamp, online timestamp converter, Unix timestamp to datetime, free timestamp converter, timestamp generator
 
 ### Contact me
 
-- E-mail: duanhjlt{at}gmail.com
+- E-mail: duanhjlt@gmail.com
 - Github: [duan0120](https://github.com/duan0120)
 - X: [@duanhjlt](https://x.com/duanhjlt)
 - Telegram: [@duanhjlt](https://t.me/duanhjlt)

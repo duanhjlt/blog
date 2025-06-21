@@ -26,11 +26,10 @@ showbreadcrumbs: true #顶部显示路径
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday?
-- [在线时间戳转换器](https://www.timestamps.top): 免费在线时间戳转换工具！快速将日期时间转换为Unix时间戳或时间戳转日期时间，支持多格式，简单易用，立即试用！
 
 ### 联系方式
 
-- E-mail: duanhjlt{at}gmail.com
+- E-mail: duanhjlt@gmail.com
 - Github: [duan0120](https://github.com/duan0120)
 - X: [@duanhjlt](https://x.com/duanhjlt)
 - Telegram: [@duanhjlt](https://t.me/duanhjlt)
