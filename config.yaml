@@ -61,40 +61,40 @@ languages:
           identifier: "search"
           name: "搜索"
           url: "/zh/search/"
-  en:
-    languageName: English
-    languageCode: en
-    contentDir: content/English
-    menu:
-      main:
-        - weight: 1
-          identifier: "post"
-          name: "Posts"
-          url: "/en/posts/"
-        - weight: 2
-          identifier: "tags"
-          name: "Tags"
-          url: "/en/tags/"
-        # - weight: 3
-        #   identifier: 'categories'
-        #   name: '分类'
-        #   url: '/categories/'
-        - weight: 4
-          identifier: "memora"
-          name: "Memora"
-          url: "https://www.memora.top"
-        - weight: 5
-          identifier: "black-screen"
-          name: "Black Screen"
-          url: "https://www.blackscreennow.space"
-        - weight: 9
-          identifier: "about"
-          name: "About"
-          url: "/en/about/"
-        - weight: 10
-          identifier: "search"
-          name: "Search"
-          url: "/en/search/"
+  # en:
+  #   languageName: English
+  #   languageCode: en
+  #   contentDir: content/English
+  #   menu:
+  #     main:
+  #       - weight: 1
+  #         identifier: "post"
+  #         name: "Posts"
+  #         url: "/en/posts/"
+  #       - weight: 2
+  #         identifier: "tags"
+  #         name: "Tags"
+  #         url: "/en/tags/"
+  #       # - weight: 3
+  #       #   identifier: 'categories'
+  #       #   name: '分类'
+  #       #   url: '/categories/'
+  #       - weight: 4
+  #         identifier: "memora"
+  #         name: "Memora"
+  #         url: "https://www.memora.top"
+  #       - weight: 5
+  #         identifier: "black-screen"
+  #         name: "Black Screen"
+  #         url: "https://www.blackscreennow.space"
+  #       - weight: 9
+  #         identifier: "about"
+  #         name: "About"
+  #         url: "/en/about/"
+  #       - weight: 10
+  #         identifier: "search"
+  #         name: "Search"
+  #         url: "/en/search/"
 outputs:
   home:
     - HTML
