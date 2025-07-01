@@ -67,7 +67,7 @@ theme: 'PaperMod'
 languageCode: 'zh-cn'
 languageName: '简体中文'
 hasCJKLanguage: true
-title: 'CrazyKids's Blog'
+title: 'TimeStamps'
 paginate: 15
 summaryLength: 120 # 文章概览的自字数，默认70
 

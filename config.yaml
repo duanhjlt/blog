@@ -1,6 +1,6 @@
 baseURL: "https://www.timestamps.top/" # 绑定的域名
 languageCode: "zh" # en-us
-title: "CrazyKids's Blog"
+title: "TimeStamps"
 theme: "PaperMod" # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -131,7 +131,7 @@ params:
 
   profileMode:
     enabled: false
-    title: "CrazyKids's Blog"
+    title: "TimeStamps"
 
   socialIcons:
     - name: github
@@ -144,7 +144,7 @@ params:
       url: "mailto:duanhjlt@gmail.com"
 
   # label: # 左上角图标
-  #   text: "CrazyKids's Blog"
+  #   text: "TimeStamps"
   #   # icon: "img/Q.gif"
   #   # iconHeight: 35
 
