@@ -45,14 +45,14 @@ languages:
         #   identifier: 'categories'
         #   name: '分类'
         #   url: '/categories/'
-        - weight: 4
-          identifier: "memora"
-          name: "Memora"
-          url: "https://www.memora.top"
-        - weight: 5
-          identifier: "black-screen"
-          name: "Black Screen"
-          url: "https://www.blackscreennow.space"
+        # - weight: 4
+        #   identifier: "memora"
+        #   name: "Memora"
+        #   url: "https://www.memora.top"
+        # - weight: 5
+        #   identifier: "twitterxvidoe"
+        #   name: "TwitterXVideo"
+        #   url: "https://twittervideoindir.com"
         - weight: 9
           identifier: "about"
           name: "关于"

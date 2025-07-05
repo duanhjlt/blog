@@ -26,6 +26,8 @@ showbreadcrumbs: true #顶部显示路径
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday?
+- [Twitter Video Downloader | TwitterXVideo](https://twittervideoindir.com): 下载、编辑、翻译和重新发布 — 一站式搞定。免费且无需注册。
+- [乘风客的分享](https://crazykids.tech): 持续分享好用的效率工具、AI、实用网站、爆款应用、学习资料、影视视频等。
 
 ### 联系方式
 

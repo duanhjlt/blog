@@ -23,6 +23,7 @@ showbreadcrumbs: true #顶部显示路径
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] Version Manager
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] Version Manager
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday? The best day of the week.
+- [Twitter Video Downloader | TwitterXVideo](https://twittervideoindir.com): Download, edit, translate and republish — all in one place. Free and no registration required.
 
 ### Contact me
 
