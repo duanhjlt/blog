@@ -41,18 +41,18 @@ languages:
           identifier: "tags"
           name: "标签"
           url: "/zh/tags/"
-        # - weight: 3
-        #   identifier: 'categories'
-        #   name: '分类'
-        #   url: '/categories/'
-        # - weight: 4
-        #   identifier: "memora"
-        #   name: "Memora"
-        #   url: "https://www.memora.top"
-        # - weight: 5
-        #   identifier: "twitterxvidoe"
-        #   name: "TwitterXVideo"
-        #   url: "https://twittervideoindir.com"
+        - weight: 3
+          identifier: "categories"
+          name: "分类"
+          url: "/categories/"
+        - weight: 4
+          identifier: "memora"
+          name: "Memora"
+          url: "https://www.memora.top"
+        - weight: 5
+          identifier: "twitterxvidoe"
+          name: "TwitterXVideo"
+          url: "https://twittervideoindir.com"
         - weight: 9
           identifier: "about"
           name: "关于"
