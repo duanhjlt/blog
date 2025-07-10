@@ -1,4 +1,4 @@
-baseURL: "https://www.timestamps.top/" # 绑定的域名
+baseURL: "https://www.timestamps.top/zh" # 绑定的域名
 languageCode: "zh" # en-us
 title: "TimeStamps"
 theme: "PaperMod" # 主题名字，和themes文件夹下的一致
