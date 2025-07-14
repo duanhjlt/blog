@@ -1,6 +1,6 @@
-# baseURL: "https://www.timestamps.top/" # 绑定的域名
+baseURL: "/" # 绑定的域名
 languageCode: "zh" # en-us
-title: "TimeStamps"
+title: "我的碎碎念"
 theme: "PaperMod" # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -61,40 +61,40 @@ languages:
           identifier: "search"
           name: "搜索"
           url: "/zh/search/"
-  # en:
-  #   languageName: English
-  #   languageCode: en
-  #   contentDir: content/English
-  #   menu:
-  #     main:
-  #       - weight: 1
-  #         identifier: "post"
-  #         name: "Posts"
-  #         url: "/en/posts/"
-  #       - weight: 2
-  #         identifier: "tags"
-  #         name: "Tags"
-  #         url: "/en/tags/"
-  #       # - weight: 3
-  #       #   identifier: 'categories'
-  #       #   name: '分类'
-  #       #   url: '/categories/'
-  #       - weight: 4
-  #         identifier: "memora"
-  #         name: "Memora"
-  #         url: "https://www.memora.top"
-  #       - weight: 5
-  #         identifier: "black-screen"
-  #         name: "Black Screen"
-  #         url: "https://www.blackscreennow.space"
-  #       - weight: 9
-  #         identifier: "about"
-  #         name: "About"
-  #         url: "/en/about/"
-  #       - weight: 10
-  #         identifier: "search"
-  #         name: "Search"
-  #         url: "/en/search/"
+  en:
+    languageName: English
+    languageCode: en
+    contentDir: content/English
+    menu:
+      main:
+        - weight: 1
+          identifier: "post"
+          name: "Posts"
+          url: "/en/posts/"
+        - weight: 2
+          identifier: "tags"
+          name: "Tags"
+          url: "/en/tags/"
+        # - weight: 3
+        #   identifier: 'categories'
+        #   name: '分类'
+        #   url: '/categories/'
+        - weight: 4
+          identifier: "memora"
+          name: "Memora"
+          url: "https://www.memora.top"
+        - weight: 5
+          identifier: "twitterxvidoe"
+          name: "TwitterXVideo"
+          url: "https://twittervideoindir.com"
+        - weight: 9
+          identifier: "about"
+          name: "About"
+          url: "/en/about/"
+        - weight: 10
+          identifier: "search"
+          name: "Search"
+          url: "/en/search/"
 outputs:
   home:
     - HTML
@@ -131,13 +131,13 @@ params:
 
   profileMode:
     enabled: false
-    title: "TimeStamps"
+    title: "我的碎碎念"
 
   socialIcons:
     - name: github
       url: "https://github.com/duan0120"
     - name: x
-      url: "https://x.com/alexander_duan"
+      url: "https://x.com/duanhjlt"
     - name: telegram
       url: "https://t.me/duanhjlt"
     - name: email
