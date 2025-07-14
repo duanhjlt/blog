@@ -9,7 +9,7 @@ hugo -F --cleanDestinationDir --environment production
 sed -i '' '/<meta name="robots" content="noindex">/d' public/index.html
 sed -i '' 's|<loc>https://www.timestamps.top/sitemap.xml</loc>|<loc>https://www.timestamps.top/zh/sitemap.xml</loc>|g' public/sitemap.xml
 cd public
-echo 'www.timestamps.top' > CNAME
+# echo 'www.timestamps.top' > CNAME
 git add .
 git commit -m "$commit"
 git push -u origin master
