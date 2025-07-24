@@ -6,7 +6,7 @@ lastmod: 2025-07-10T23:12:09+08:00
 draft: false
 description: When downloading videos from Twitter, you'll encounter various formats. Understanding these formats helps you choose the best option for your specific needs. This guide breaks down everything you need to know about Twitter video formats.'
 author: 'duanhongjin'
-tags: ['devutils']
+tags: ['devutils', 'TwitterXVideo']
 categories: []
 tocLevels: ["h2", "h3", "h4"]
 comments: true # 本页面是否显示评论
