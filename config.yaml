@@ -49,10 +49,6 @@ languages:
           identifier: "memora"
           name: "Memora"
           url: "https://www.memora.top"
-        - weight: 5
-          identifier: "twitterxvidoe"
-          name: "TwitterXVideo"
-          url: "https://twittervideoindir.com"
         - weight: 9
           identifier: "about"
           name: "关于"
@@ -83,10 +79,6 @@ languages:
           identifier: "memora"
           name: "Memora"
           url: "https://www.memora.top"
-        - weight: 5
-          identifier: "twitterxvidoe"
-          name: "TwitterXVideo"
-          url: "https://twittervideoindir.com"
         - weight: 9
           identifier: "about"
           name: "About"
