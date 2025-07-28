@@ -28,6 +28,7 @@ showbreadcrumbs: true #顶部显示路径
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday?
 - [Twitter Video Downloader | TwitterXVideo](https://twittervideoindir.com): 下载、编辑、翻译和重新发布 — 一站式搞定。免费且无需注册。
 - [乘风客的分享](https://crazykids.tech): 持续分享好用的效率工具、AI、实用网站、爆款应用、学习资料、影视视频等。
+- [Brat Generator | Brat-Gen](https://brat-gen.com): Free Brat Generator for Custom Covers
 
 ### 联系方式
 
