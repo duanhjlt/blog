@@ -18,7 +18,7 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 ---
 
-注册了一堆Profile，在这里记录一下  
+周末注册了不少的Profile类型的网站，这些网站都得自己找地方展示，现在集中放到这里吧，每个都是一个外链啊，就是不知道有没有。
 
 - [Ramen.Tools](https://ramen.tools/@alexanderDuan)
 - [Bento](https://bento.me/duanhjlt)
@@ -33,3 +33,4 @@ showbreadcrumbs: true #顶部显示路径
 - [PeerList](https://peerlist.io/duanhjlt)
 - [TwitterXVideo | FrogDR](https://frogdr.com/twittervideoindir.com)
 - [Brat-Gen | FrogDR](https://frogdr.com/brat-gen.com)
+- [Cal.app](https://app.cal.com/duanhjlt)
