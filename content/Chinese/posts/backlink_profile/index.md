@@ -35,3 +35,4 @@ showbreadcrumbs: true #顶部显示路径
 - [Brat-Gen | FrogDR](https://frogdr.com/brat-gen.com)
 - [Cal.app](https://app.cal.com/duanhjlt)
 - [Twitch](https://twitch.tv/duanhjlt/about)
+- [ollama](https://ollama.com/duanhjlt)
