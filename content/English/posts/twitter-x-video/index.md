@@ -66,3 +66,6 @@ showbreadcrumbs: true #顶部显示路径
 
 - Can I download videos from private Twitter accounts?  
     Currently, TwitterXVideo only supports downloading videos from accounts you have permission to access, including private accounts, but this requires authorizing login with your Twitter/X account. Unauthorized downloads from private content may violate platform policies, so please comply with regulations.
+
+## Github
+[https://github.com/devutils-online/twitterxvideo](https://github.com/devutils-online/twitterxvideo)
