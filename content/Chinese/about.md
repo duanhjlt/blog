@@ -21,7 +21,7 @@ showbreadcrumbs: true #顶部显示路径
 中年 iOS/macos 开发
 
 - [Memora：专为iOS和macOS设计的离线稍后读应用](https://www.memora.top): Memora是一款安全可靠的稍后读应用，支持网页离线保存、iCloud同步和无干扰阅读体验。通过标签分类和智能搜索，轻松管理你的阅读清单。
-- [Black Screen](https://www.blackscreennow.space): 黑色力量的终极目的地, 简约和优雅是迷人视觉体验的核心。
+- [Black Screen](https://black-screen.cc): Black Screen - Fullscreen Focus, OLED & Pixel Testing
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] 版本管理
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] 版本管理
 - [饭点儿](https://fandianer.crazykids.tech): 到饭点儿，轻轻一摇推荐附近的餐馆

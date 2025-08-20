@@ -19,7 +19,7 @@ showbreadcrumbs: true #顶部显示路径
 ---
 
 - [Memora: Read It Later App for iOS & macOS with Offline Reading](https://www.memora.top): Memora is a secure read it later app for iOS and macOS. Save web pages offline, sync via iCloud, and enjoy distraction-free reading. Organize with tags and search easily.
-- [Black Screen](https://www.blackscreennow.space): Your ultimate destination for harnessing the allure of black.
+- [Black Screen](https://black-screen.cc): Black Screen - Fullscreen Focus, OLED & Pixel Testing
 - [xvm](https://github.com/duan0120/xvm): [node|golang|python] Version Manager
 - [xvm-windows](https://github.com/duan0120/xvm-windows): [node|golang|python] Version Manager
 - [It is friday?](https://itisfriday.crazykids.tech): Check if it is friday? The best day of the week.
