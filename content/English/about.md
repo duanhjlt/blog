@@ -26,6 +26,7 @@ showbreadcrumbs: true #顶部显示路径
 - [Twitter Video Downloader | TwitterXVideo](https://twittervideoindir.com): Download, edit, translate and republish — all in one place. Free and no registration required.
 - [Brat Generator | Brat-Gen](https://brat-gen.com): Free Brat Generator for Custom Covers
 - [Unix Timestamp Converter](https://timestamps.top): Unix Timestamp - Free Unix Timestamp Converter & Date Tool
+- [String Art Generator](https://stringartgenerator.cc): Free Online Pattern Creator
 
 ### Contact me
 

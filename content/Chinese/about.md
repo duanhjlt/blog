@@ -30,6 +30,7 @@ showbreadcrumbs: true #顶部显示路径
 - [乘风客的分享](https://crazykids.tech): 持续分享好用的效率工具、AI、实用网站、爆款应用、学习资料、影视视频等。
 - [Brat Generator | Brat-Gen](https://brat-gen.com): Free Brat Generator for Custom Covers
 - [Unix Timestamp Converter](https://timestamps.top): Unix Timestamp - Free Unix Timestamp Converter & Date Tool
+- [String Art Generator](https://stringartgenerator.cc): Free Online Pattern Creator
 
 ### 联系方式
 
